@@ -1,0 +1,7 @@
+# Site settings
+title: Ambiguous Reality
+description: Disrupt your preconceived notions
+keywords: Philosophy, Blogging, Poetry
+author: Ambiguous Reality
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "" # the base hostname & protocol for your site
